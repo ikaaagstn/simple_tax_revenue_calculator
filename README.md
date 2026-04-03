@@ -17,7 +17,7 @@ python main.py
 
 ## Example
 
-Input 3 orders with a total of Rp 300,000. The program automatically calculates 10% tax = Rp 30,000.
+Input 3 orders, and the program automatically calculates the tax and revenue.
 
 ```
 Welcome to the Tax and Revenue Calculator
