@@ -17,7 +17,7 @@ python main.py
 
 ## Example
 
-Input 3 orders, and the program automatically calculates the tax and revenue.
+Input 3 orders, and the program automatically calculates the tax and revenue. Total revenue is Rp 600,000 and total tax is Rp 60,000.
 
 ```
 Welcome to the Tax and Revenue Calculator
